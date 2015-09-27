@@ -1,5 +1,5 @@
 # Terrestrial-Solar-Radiation
-Created in code Terrestrial solar radiation models for the Solar Thermal Engineering course at Col. U
+Evaluated terrestrial solar radiation models for the Solar Thermal Engineering course at Col. U
 
 **Modeled in Python**
 
